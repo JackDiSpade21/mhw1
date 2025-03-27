@@ -1,6 +1,9 @@
 # MiniHomework 1
 Consegna del primo minihomework di Web Proggramming.
 
+Il sito ricostruito è visitabile tramite GitHub Pages
+[quì](https://jackdispade21.github.io/mhw1/mhw1.html).
+
 Si allegano in basso gli screenshot del sito originale, in tutte le configurazioni possibili.
 
 Inoltre, anche se non allegato in basso, i pulsanti di navigazione sul sito originale scompaiono man mano che finisce lo spazio, questo è stato riprodotto tramite media queries.

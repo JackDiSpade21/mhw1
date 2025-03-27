@@ -67,7 +67,7 @@ header a:hover{
     height: 100%;
     width: 204px;
     background-color: rgb(30, 30, 30);
-    background-image: url('./paypal.png');
+    background-image: url('./icons/paypal.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -191,7 +191,7 @@ input::placeholder{
     width: 100%;
     min-height: 56vw;
 
-    background-image: url("./Rkomi_Large_02.webp");
+    background-image: url("./cards/Rkomi_Large_02.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -601,7 +601,7 @@ footer a{
     right: 0%;
     top: 50%;
 
-    background-image: url("./rscroll.png");
+    background-image: url("./icons/rscroll.png");
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: center;
@@ -832,7 +832,7 @@ footer a{
     }
 
     #hero{
-        background-image: url("./Rkomi_Medium_02.webp");
+        background-image: url("./cards/Rkomi_Medium_02.webp");
     }
 
     #webbar{
