@@ -1,8 +1,8 @@
 # MiniHomework 1
-Consegna del primo minihomework di Web Proggramming.
+Consegna del primo minihomework di Web Programming.
 
-Il sito ricostruito è visitabile tramite GitHub Pages
-[quì](https://jackdispade21.github.io/mhw1/mhw1.html).
+[Il sito ricostruito è visitabile tramite GitHub Pages
+quì](https://jackdispade21.github.io/mhw1/mhw1.html).
 
 Si allegano in basso gli screenshot del sito originale, in tutte le configurazioni possibili.
 
